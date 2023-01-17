@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebLink</string>
+    <string name="no_need_to_install_application">Tap to Visit</string>
+    <string name="apps">Apps</string>
+    <string name="designed_by_prince">Designed By Prince</string>
+    <string name="next">next</string>
+    <string name="todo">TODO</string>
+    <string name="app">Apps</string>
+    <string name="designed_by_princee">Designed By Prince</string>
+    <string name="back">Back</string>
+    <string name="contact_us">Contact us</string>
+</resources>
